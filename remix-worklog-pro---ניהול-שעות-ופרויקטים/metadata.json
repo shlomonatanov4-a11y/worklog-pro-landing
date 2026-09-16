@@ -1,0 +1,8 @@
+{
+  "name": "Remix WorkLog Pro - ניהול שעות ופרויקטים",
+  "description": "דף נחיתה רשמי עבור WorkLog Pro — מערכת חכמה לניהול שעות עבודה, פרויקטים, לקוחות, הפקת דוחות וחישוב שכר.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
